@@ -1,6 +1,6 @@
 # Xác Định Góc Quay Ảnh
 
-Ứng dụng web đơn giản sử dụng Flask và OpenCV để xác định góc nghiêng/góc quay của ảnh thông qua thuật toán Hough Transform.
+Ứng dụng web hiện đại sử dụng Streamlit và OpenCV để xác định góc nghiêng/góc quay của ảnh thông qua thuật toán Hough Transform.
 
 ## 📋 Yêu cầu hệ thống
 
@@ -50,11 +50,11 @@ pip install -r requirements.txt
     pip install opencv-python-headless
     ```
 
-### Thư viện khác
+### Streamlit
 
--   **Flask**: Web framework nhẹ, dễ sử dụng
--   **NumPy**: Tính toán số học, đi kèm với OpenCV
--   **Werkzeug**: Xử lý file upload, tích hợp sẵn trong Flask
+-   **Web framework hiện đại**: Tự động tạo giao diện đẹp, không cần HTML/CSS
+-   **Hot reload**: Tự động cập nhật khi sửa code
+-   **Tương thích tốt**: Với NumPy, Pandas, Matplotlib, OpenCV
 
 ## 📂 Dataset
 
@@ -69,101 +69,68 @@ HandWriting/
 ├── image_4_rot60.jpg    # Ảnh quay 60 độ
 ├── image_4_rot90.jpg    # Ảnh quay 90 độ
 ├── image_4_rot160.jpg   # Ảnh quay 160 độ
-└── data.json            # File metadata (nếu có)
+└── data.json            # File metadata với thông tin góc quay
 ```
 
 ### Định dạng ảnh hỗ trợ
 
 -   PNG, JPG, JPEG, BMP
--   Kích thước tối đa: 16MB
+-   Kích thước tối đa: 200MB (Streamlit)
 -   Khuyến nghị: Ảnh tài liệu, form, bảng biểu có kẻ ô hoặc văn bản rõ ràng
-
-### Thêm ảnh test
-
-Bạn có thể thêm ảnh của mình vào thư mục `HandWriting/` hoặc upload trực tiếp qua web interface.
 
 ## 🚀 Chạy chương trình
 
-### Chạy Web App (Khuyến nghị)
+### Chạy Web App
 
 ```bash
-python src/app.py
+streamlit run src/app.py
 ```
 
-Sau đó mở trình duyệt tại: **http://127.0.0.1:5000**
+Sau đó mở trình duyệt tại: **http://localhost:8501**
 
 ### Chạy Script Test (Command Line)
 
-Để test nhanh thuật toán với 1 ảnh:
-
 ```bash
 python src/bai1.py
 ```
 
-**Lưu ý**: Cần sửa đường dẫn ảnh trong file `src/bai1.py` trước khi chạy:
-
-```python
-angle = get_skew_angle_hough('HandWriting/image_4_rot60.jpg')  # Thay đổi tên file ở đây
-```
+**Lưu ý**: Cần sửa đường dẫn ảnh trong file `src/bai1.py` trước khi chạy.
 
 ## 📖 Hướng dẫn sử dụng Web App
 
-1. Truy cập http://127.0.0.1:5000
-2. Click nút **"📁 Chọn Ảnh"**
+1. Truy cập **http://localhost:8501**
+2. Kéo thả ảnh vào vùng upload hoặc click **"Browse files"**
 3. Chọn file ảnh từ máy tính
-4. Click **"Phân Tích Góc Quay"**
-5. Xem kết quả:
-    - Góc nghiêng phát hiện (độ)
-    - Ảnh gốc
-    - Ảnh với các đường thẳng phát hiện (màu xanh lá)
+4. Kết quả hiển thị tự động:
+    - 📊 Góc nghiêng phát hiện (độ)
+    - 🖼️ Ảnh gốc
+    - 🔍 Phát hiện cạnh (Canny)
+    - 📐 Đường thẳng phát hiện (màu xanh lá)
+5. Click **"⬇️ Tải ảnh kết quả"** để download
 
-## 🧪 Kiểm tra chương trình
+## 🎨 Tính năng nổi bật
 
-### Test cơ bản
-
-```bash
-# Chạy với ảnh mẫu
-python src/bai1.py
-```
-
-Kết quả mong đợi:
-
--   Hiển thị 3 cửa sổ: Original, Canny Edges, Edges (với đường thẳng)
--   In ra góc nghiêng trên console
-
-### Test web app
-
-1. Chạy `python src/app.py`
-2. Upload ảnh từ thư mục `HandWriting/`
-3. Kiểm tra:
-    - Góc hiển thị có hợp lý không
-    - Đường thẳng được vẽ có đúng không
-    - Thời gian xử lý (2-4 giây)
+✨ **Giao diện hiện đại**: Gradient màu sắc, layout responsive  
+🎯 **Drag & Drop**: Kéo thả ảnh dễ dàng  
+⚙️ **Tùy chỉnh tham số**: Slider điều chỉnh Hough Transform real-time  
+📊 **4 view ảnh**: Original, Canny Edges, Lines Detection, Info  
+💾 **Download kết quả**: Lưu ảnh đã phân tích  
+📱 **Responsive**: Hoạt động tốt trên mobile/tablet  
+🚀 **Nhanh**: Xử lý trong 1.5-4 giây
 
 ## 🛠️ Cấu trúc project
 
 ```
 Bai1/
 ├── src/                            # Thư mục mã nguồn
-│   ├── app.py                      # Flask server chính
-│   ├── bai1.py                     # Script test thuật toán
-│   └── templates/
-│       └── index.html              # Giao diện web
+│   ├── app.py                      # Streamlit app chính
+│   └── bai1.py                     # Script test thuật toán
 ├── HandWriting/                    # Dataset
-├── uploads/                        # Thư mục lưu ảnh upload (tự tạo)
 ├── requirements.txt                # Danh sách thư viện
 ├── README.md                       # File này
+├── .gitignore                      # Loại trừ file không cần
 └── BaoCao_XacDinhGocQuayAnh.docx   # Báo cáo chi tiết
 ```
-
-## ⚙️ Cấu hình
-
-Có thể tùy chỉnh trong `src/app.py`:
-
--   `MAX_CONTENT_LENGTH`: Kích thước file tối đa (mặc định 16MB)
--   `UPLOAD_FOLDER`: Thư mục lưu file upload
--   Tham số Hough Transform: `threshold`, `minLineLength`, `maxLineGap`
--   Tham số Canny: `threshold1`, `threshold2`
 
 ## 🐛 Xử lý lỗi thường gặp
 
@@ -173,36 +140,28 @@ Có thể tùy chỉnh trong `src/app.py`:
 pip install opencv-python
 ```
 
-### Lỗi: "Address already in use"
+### Lỗi: "No module named 'streamlit'"
 
 ```bash
-# Đổi port trong src/app.py
-app.run(debug=True, host='0.0.0.0', port=5001)  # Đổi 5000 thành 5001
+pip install streamlit
 ```
+
+### Lỗi: "Address already in use" (port 8501)
+
+Streamlit tự động thử port khác (8502, 8503...)
 
 ### Lỗi: "Không tìm thấy đường thẳng nào"
 
 -   Ảnh có thể quá mờ hoặc không có đủ đường thẳng
--   Thử ảnh khác hoặc điều chỉnh tham số Canny/Hough
-
-### Góc phát hiện không chính xác
-
--   Ảnh có nhiều đường kẻ dọc và ngang → thuật toán có thể nhầm
--   Thử ảnh có nội dung rõ ràng hơn
-
-## 📝 Ghi chú
-
--   Web server chạy ở chế độ debug, **không dùng cho production**
--   File upload được lưu tạm trong thư mục `uploads/`
--   Thuật toán hoạt động tốt nhất với ảnh tài liệu, form, bảng có kẻ ô
+-   Thử ảnh khác hoặc điều chỉnh tham số qua sidebar
 
 ## 📚 Tài liệu tham khảo
 
 -   [OpenCV Hough Line Transform](https://docs.opencv.org/4.x/d9/db0/tutorial_hough_lines.html)
--   [Flask Documentation](https://flask.palletsprojects.com/)
+-   [Streamlit Documentation](https://docs.streamlit.io/)
 -   [Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
 
 ---
 
-**Tác giả**: Bài tập xử lý ảnh  
+**Công nghệ**: Streamlit + OpenCV + NumPy  
 **Ngày**: 28/12/2025
