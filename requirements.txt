@@ -1,4 +1,14 @@
+# Thư viện web framework
 Flask==3.0.0
+
+# Thư viện xử lý ảnh
 opencv-python==4.9.0.80
+
+# Thư viện tính toán số học
 numpy==1.26.3
+
+# Thư viện xử lý file upload và bảo mật
 Werkzeug==3.0.1
+
+# Thư viện tạo báo cáo Word (tùy chọn - chỉ cần nếu muốn tạo báo cáo)
+python-docx==1.1.0

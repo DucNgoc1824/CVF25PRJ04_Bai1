@@ -1,3 +1,4 @@
+# Code chạy web với Flask
 from flask import Flask, render_template, request, jsonify
 import cv2
 import numpy as np
