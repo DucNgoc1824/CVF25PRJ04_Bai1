@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Xác Định Góc Quay Ảnh</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            body {
+                font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                min-height: 100vh;
+                padding: 20px;
+            }
+
+            .container {
+                max-width: 1200px;
+                margin: 0 auto;
+                background: white;
+                border-radius: 20px;
+                padding: 40px;
+                box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            }
+
+            h1 {
+                text-align: center;
+                color: #667eea;
+                margin-bottom: 30px;
+                font-size: 2.5em;
+            }
+
+            .upload-section {
+                text-align: center;
+                margin-bottom: 30px;
+            }
+
+            .file-input-wrapper {
+                position: relative;
+                display: inline-block;
+                cursor: pointer;
+                margin-bottom: 20px;
+            }
+
+            .file-input-wrapper input[type="file"] {
+                position: absolute;
+                left: -9999px;
+            }
+
+            .file-input-label {
+                display: inline-block;
+                padding: 15px 40px;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: white;
+                border-radius: 50px;
+                cursor: pointer;
+                font-size: 1.1em;
+                transition: transform 0.2s;
+            }
+
+            .file-input-label:hover {
+                transform: scale(1.05);
+            }
+
+            #fileName {
+                display: block;
+                margin-top: 10px;
+                color: #666;
+                font-style: italic;
+            }
+
+            .upload-btn {
+                padding: 15px 50px;
+                background: #28a745;
+                color: white;
+                border: none;
+                border-radius: 50px;
+                font-size: 1.1em;
+                cursor: pointer;
+                transition: all 0.3s;
+                margin-top: 10px;
+            }
+
+            .upload-btn:hover:not(:disabled) {
+                background: #218838;
+                transform: scale(1.05);
+            }
+
+            .upload-btn:disabled {
+                background: #ccc;
+                cursor: not-allowed;
+            }
+
+            .result-section {
+                display: none;
+                margin-top: 30px;
+            }
+
+            .angle-display {
+                text-align: center;
+                padding: 20px;
+                background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+                color: white;
+                border-radius: 15px;
+                margin-bottom: 30px;
+                font-size: 1.8em;
+                font-weight: bold;
+            }
+
+            .images-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+                gap: 20px;
+                margin-top: 20px;
+            }
+
+            .image-box {
+                background: #f8f9fa;
+                border-radius: 15px;
+                padding: 15px;
+                box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            }
+
+            .image-box h3 {
+                color: #667eea;
+                margin-bottom: 15px;
+                text-align: center;
+            }
+
+            .image-box img {
+                width: 100%;
+                height: auto;
+                border-radius: 10px;
+                box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+            }
+
+            .loading {
+                display: none;
+                text-align: center;
+                margin-top: 20px;
+            }
+
+            .spinner {
+                border: 4px solid #f3f3f3;
+                border-top: 4px solid #667eea;
+                border-radius: 50%;
+                width: 50px;
+                height: 50px;
+                animation: spin 1s linear infinite;
+                margin: 0 auto;
+            }
+
+            @keyframes spin {
+                0% {
+                    transform: rotate(0deg);
+                }
+                100% {
+                    transform: rotate(360deg);
+                }
+            }
+
+            .error {
+                background: #f8d7da;
+                color: #721c24;
+                padding: 15px;
+                border-radius: 10px;
+                margin-top: 20px;
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>🔄 Xác Định Góc Quay Ảnh</h1>
+
+            <div class="upload-section">
+                <div class="file-input-wrapper">
+                    <label class="file-input-label" for="fileInput">
+                        📁 Chọn Ảnh
+                    </label>
+                    <input type="file" id="fileInput" accept="image/*" />
+                </div>
+                <span id="fileName"></span>
+                <br />
+                <button class="upload-btn" id="uploadBtn" disabled>
+                    Phân Tích Góc Quay
+                </button>
+            </div>
+
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p style="margin-top: 15px; color: #667eea; font-size: 1.2em">
+                    Đang xử lý...
+                </p>
+            </div>
+
+            <div class="error" id="error"></div>
+
+            <div class="result-section" id="results">
+                <div class="angle-display" id="angleDisplay"></div>
+
+                <div class="images-grid">
+                    <div class="image-box">
+                        <h3>Ảnh Gốc</h3>
+                        <img id="originalImg" src="" alt="Original Image" />
+                    </div>
+
+                    <div class="image-box">
+                        <h3>Phát Hiện Đường Thẳng</h3>
+                        <img id="linesImg" src="" alt="Lines Detection" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            const fileInput = document.getElementById("fileInput");
+            const fileName = document.getElementById("fileName");
+            const uploadBtn = document.getElementById("uploadBtn");
+            const loading = document.getElementById("loading");
+            const results = document.getElementById("results");
+            const errorDiv = document.getElementById("error");
+
+            fileInput.addEventListener("change", function () {
+                if (this.files.length > 0) {
+                    fileName.textContent = `Đã chọn: ${this.files[0].name}`;
+                    uploadBtn.disabled = false;
+                } else {
+                    fileName.textContent = "";
+                    uploadBtn.disabled = true;
+                }
+            });
+
+            uploadBtn.addEventListener("click", async function () {
+                const file = fileInput.files[0];
+                if (!file) return;
+
+                // Ẩn kết quả cũ và lỗi
+                results.style.display = "none";
+                errorDiv.style.display = "none";
+                loading.style.display = "block";
+
+                const formData = new FormData();
+                formData.append("file", file);
+
+                try {
+                    const response = await fetch("/upload", {
+                        method: "POST",
+                        body: formData,
+                    });
+
+                    const data = await response.json();
+
+                    loading.style.display = "none";
+
+                    if (response.ok) {
+                        // Hiển thị kết quả
+                        document.getElementById(
+                            "angleDisplay"
+                        ).textContent = `Góc nghiêng phát hiện: ${data.angle}°`;
+                        document.getElementById("originalImg").src =
+                            data.original_image;
+                        document.getElementById("linesImg").src =
+                            data.lines_image;
+
+                        results.style.display = "block";
+                    } else {
+                        errorDiv.textContent = `Lỗi: ${data.error}`;
+                        errorDiv.style.display = "block";
+                    }
+                } catch (error) {
+                    loading.style.display = "none";
+                    errorDiv.textContent = `Lỗi kết nối: ${error.message}`;
+                    errorDiv.style.display = "block";
+                }
+            });
+        </script>
+    </body>
+</html>

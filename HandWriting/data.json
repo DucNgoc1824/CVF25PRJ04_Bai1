@@ -1,0 +1,4532 @@
+[
+  {
+    "id": 1,
+    "original_filename": "image_01.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_01_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_01_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_01_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_01_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_01_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_01_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_01_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_01_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_01_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_01_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_01_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_01_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_01_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_01_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_01_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_01_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_01_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_01_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_01_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_01_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_01_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_01_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_01_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_01_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_01_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_01_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_01_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_01_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_01_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_01_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_01_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_01_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_01_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_01_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_01_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_01_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "original_filename": "image_02.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_02_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_02_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_02_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_02_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_02_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_02_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_02_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_02_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_02_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_02_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_02_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_02_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_02_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_02_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_02_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_02_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_02_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_02_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_02_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_02_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_02_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_02_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_02_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_02_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_02_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_02_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_02_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_02_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_02_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_02_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_02_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_02_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_02_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_02_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_02_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_02_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "original_filename": "image_03.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_03_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_03_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_03_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_03_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_03_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_03_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_03_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_03_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_03_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_03_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_03_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_03_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_03_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_03_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_03_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_03_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_03_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_03_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_03_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_03_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_03_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_03_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_03_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_03_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_03_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_03_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_03_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_03_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_03_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_03_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_03_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_03_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_03_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_03_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_03_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_03_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "original_filename": "image_04.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_04_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_04_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_04_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_04_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_04_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_04_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_04_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_04_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_04_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_04_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_04_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_04_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_04_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_04_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_04_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_04_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_04_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_04_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_04_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_04_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_04_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_04_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_04_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_04_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_04_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_04_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_04_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_04_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_04_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_04_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_04_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_04_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_04_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_04_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_04_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_04_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "original_filename": "image_05.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_05_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_05_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_05_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_05_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_05_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_05_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_05_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_05_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_05_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_05_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_05_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_05_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_05_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_05_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_05_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_05_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_05_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_05_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_05_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_05_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_05_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_05_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_05_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_05_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_05_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_05_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_05_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_05_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_05_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_05_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_05_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_05_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_05_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_05_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_05_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_05_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "original_filename": "image_06.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_06_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_06_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_06_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_06_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_06_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_06_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_06_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_06_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_06_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_06_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_06_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_06_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_06_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_06_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_06_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_06_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_06_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_06_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_06_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_06_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_06_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_06_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_06_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_06_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_06_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_06_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_06_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_06_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_06_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_06_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_06_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_06_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_06_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_06_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_06_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_06_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "original_filename": "image_07.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_07_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_07_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_07_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_07_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_07_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_07_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_07_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_07_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_07_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_07_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_07_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_07_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_07_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_07_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_07_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_07_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_07_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_07_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_07_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_07_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_07_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_07_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_07_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_07_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_07_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_07_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_07_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_07_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_07_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_07_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_07_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_07_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_07_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_07_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_07_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_07_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "original_filename": "image_08.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_08_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_08_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_08_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_08_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_08_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_08_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_08_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_08_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_08_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_08_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_08_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_08_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_08_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_08_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_08_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_08_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_08_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_08_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_08_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_08_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_08_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_08_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_08_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_08_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_08_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_08_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_08_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_08_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_08_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_08_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_08_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_08_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_08_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_08_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_08_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_08_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "original_filename": "image_09.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_09_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_09_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_09_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_09_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_09_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_09_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_09_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_09_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_09_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_09_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_09_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_09_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_09_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_09_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_09_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_09_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_09_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_09_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_09_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_09_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_09_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_09_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_09_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_09_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_09_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_09_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_09_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_09_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_09_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_09_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_09_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_09_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_09_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_09_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_09_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_09_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "original_filename": "image_10.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_10_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_10_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_10_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_10_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_10_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_10_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_10_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_10_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_10_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_10_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_10_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_10_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_10_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_10_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_10_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_10_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_10_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_10_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_10_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_10_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_10_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_10_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_10_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_10_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_10_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_10_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_10_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_10_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_10_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_10_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_10_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_10_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_10_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_10_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_10_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_10_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "original_filename": "image_11.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_11_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_11_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_11_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_11_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_11_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_11_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_11_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_11_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_11_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_11_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_11_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_11_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_11_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_11_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_11_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_11_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_11_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_11_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_11_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_11_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_11_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_11_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_11_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_11_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_11_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_11_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_11_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_11_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_11_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_11_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_11_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_11_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_11_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_11_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_11_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_11_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "original_filename": "image_12.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_12_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_12_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_12_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_12_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_12_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_12_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_12_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_12_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_12_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_12_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_12_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_12_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_12_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_12_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_12_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_12_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_12_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_12_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_12_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_12_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_12_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_12_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_12_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_12_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_12_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_12_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_12_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_12_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_12_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_12_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_12_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_12_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_12_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_12_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_12_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_12_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "original_filename": "image_13.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_13_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_13_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_13_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_13_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_13_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_13_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_13_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_13_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_13_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_13_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_13_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_13_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_13_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_13_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_13_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_13_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_13_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_13_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_13_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_13_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_13_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_13_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_13_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_13_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_13_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_13_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_13_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_13_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_13_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_13_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_13_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_13_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_13_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_13_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_13_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_13_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "original_filename": "image_14.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_14_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_14_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_14_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_14_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_14_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_14_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_14_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_14_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_14_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_14_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_14_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_14_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_14_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_14_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_14_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_14_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_14_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_14_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_14_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_14_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_14_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_14_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_14_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_14_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_14_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_14_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_14_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_14_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_14_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_14_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_14_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_14_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_14_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_14_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_14_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_14_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "original_filename": "image_15.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_15_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_15_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_15_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_15_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_15_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_15_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_15_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_15_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_15_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_15_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_15_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_15_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_15_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_15_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_15_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_15_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_15_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_15_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_15_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_15_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_15_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_15_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_15_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_15_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_15_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_15_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_15_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_15_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_15_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_15_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_15_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_15_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_15_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_15_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_15_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_15_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "original_filename": "image_16.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_16_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_16_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_16_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_16_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_16_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_16_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_16_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_16_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_16_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_16_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_16_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_16_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_16_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_16_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_16_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_16_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_16_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_16_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_16_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_16_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_16_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_16_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_16_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_16_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_16_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_16_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_16_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_16_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_16_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_16_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_16_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_16_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_16_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_16_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_16_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_16_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "original_filename": "image_17.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_17_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_17_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_17_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_17_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_17_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_17_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_17_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_17_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_17_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_17_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_17_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_17_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_17_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_17_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_17_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_17_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_17_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_17_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_17_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_17_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_17_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_17_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_17_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_17_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_17_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_17_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_17_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_17_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_17_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_17_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_17_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_17_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_17_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_17_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_17_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_17_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "original_filename": "image_18.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_18_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_18_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_18_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_18_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_18_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_18_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_18_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_18_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_18_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_18_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_18_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_18_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_18_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_18_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_18_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_18_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_18_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_18_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_18_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_18_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_18_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_18_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_18_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_18_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_18_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_18_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_18_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_18_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_18_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_18_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_18_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_18_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_18_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_18_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_18_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_18_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "original_filename": "image_19.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_19_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_19_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_19_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_19_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_19_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_19_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_19_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_19_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_19_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_19_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_19_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_19_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_19_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_19_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_19_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_19_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_19_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_19_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_19_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_19_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_19_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_19_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_19_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_19_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_19_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_19_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_19_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_19_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_19_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_19_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_19_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_19_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_19_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_19_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_19_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_19_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "original_filename": "image_20.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_20_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_20_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_20_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_20_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_20_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_20_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_20_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_20_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_20_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_20_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_20_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_20_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_20_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_20_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_20_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_20_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_20_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_20_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_20_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_20_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_20_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_20_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_20_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_20_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_20_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_20_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_20_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_20_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_20_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_20_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_20_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_20_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_20_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_20_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_20_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_20_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "original_filename": "image_21.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_21_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_21_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_21_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_21_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_21_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_21_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_21_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_21_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_21_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_21_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_21_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_21_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_21_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_21_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_21_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_21_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_21_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_21_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_21_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_21_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_21_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_21_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_21_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_21_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_21_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_21_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_21_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_21_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_21_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_21_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_21_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_21_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_21_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_21_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_21_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_21_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "original_filename": "image_22.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_22_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_22_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_22_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_22_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_22_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_22_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_22_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_22_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_22_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_22_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_22_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_22_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_22_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_22_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_22_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_22_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_22_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_22_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_22_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_22_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_22_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_22_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_22_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_22_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_22_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_22_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_22_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_22_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_22_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_22_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_22_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_22_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_22_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_22_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_22_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_22_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "original_filename": "image_23.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_23_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_23_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_23_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_23_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_23_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_23_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_23_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_23_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_23_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_23_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_23_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_23_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_23_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_23_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_23_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_23_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_23_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_23_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_23_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_23_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_23_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_23_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_23_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_23_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_23_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_23_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_23_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_23_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_23_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_23_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_23_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_23_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_23_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_23_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_23_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_23_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "original_filename": "image_24.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_24_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_24_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_24_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_24_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_24_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_24_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_24_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_24_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_24_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_24_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_24_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_24_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_24_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_24_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_24_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_24_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_24_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_24_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_24_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_24_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_24_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_24_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_24_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_24_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_24_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_24_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_24_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_24_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_24_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_24_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_24_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_24_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_24_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_24_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_24_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_24_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "original_filename": "image_25.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_25_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_25_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_25_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_25_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_25_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_25_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_25_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_25_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_25_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_25_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_25_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_25_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_25_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_25_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_25_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_25_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_25_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_25_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_25_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_25_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_25_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_25_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_25_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_25_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_25_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_25_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_25_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_25_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_25_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_25_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_25_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_25_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_25_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_25_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_25_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_25_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "original_filename": "image_26.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_26_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_26_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_26_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_26_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_26_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_26_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_26_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_26_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_26_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_26_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_26_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_26_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_26_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_26_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_26_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_26_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_26_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_26_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_26_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_26_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_26_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_26_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_26_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_26_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_26_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_26_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_26_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_26_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_26_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_26_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_26_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_26_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_26_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_26_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_26_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_26_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "original_filename": "image_27.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_27_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_27_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_27_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_27_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_27_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_27_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_27_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_27_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_27_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_27_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_27_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_27_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_27_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_27_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_27_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_27_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_27_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_27_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_27_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_27_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_27_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_27_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_27_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_27_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_27_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_27_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_27_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_27_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_27_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_27_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_27_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_27_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_27_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_27_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_27_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_27_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "original_filename": "image_28.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_28_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_28_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_28_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_28_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_28_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_28_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_28_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_28_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_28_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_28_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_28_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_28_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_28_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_28_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_28_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_28_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_28_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_28_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_28_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_28_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_28_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_28_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_28_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_28_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_28_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_28_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_28_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_28_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_28_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_28_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_28_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_28_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_28_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_28_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_28_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_28_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "original_filename": "image_29.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_29_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_29_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_29_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_29_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_29_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_29_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_29_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_29_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_29_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_29_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_29_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_29_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_29_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_29_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_29_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_29_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_29_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_29_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_29_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_29_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_29_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_29_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_29_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_29_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_29_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_29_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_29_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_29_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_29_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_29_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_29_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_29_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_29_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_29_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_29_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_29_rot180.jpg"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "original_filename": "image_30.jpg",
+    "total_variants": 36,
+    "variants": [
+      {
+        "angle": 5,
+        "filename": "image_30_rot5.jpg"
+      },
+      {
+        "angle": 10,
+        "filename": "image_30_rot10.jpg"
+      },
+      {
+        "angle": 15,
+        "filename": "image_30_rot15.jpg"
+      },
+      {
+        "angle": 20,
+        "filename": "image_30_rot20.jpg"
+      },
+      {
+        "angle": 25,
+        "filename": "image_30_rot25.jpg"
+      },
+      {
+        "angle": 30,
+        "filename": "image_30_rot30.jpg"
+      },
+      {
+        "angle": 35,
+        "filename": "image_30_rot35.jpg"
+      },
+      {
+        "angle": 40,
+        "filename": "image_30_rot40.jpg"
+      },
+      {
+        "angle": 45,
+        "filename": "image_30_rot45.jpg"
+      },
+      {
+        "angle": 50,
+        "filename": "image_30_rot50.jpg"
+      },
+      {
+        "angle": 55,
+        "filename": "image_30_rot55.jpg"
+      },
+      {
+        "angle": 60,
+        "filename": "image_30_rot60.jpg"
+      },
+      {
+        "angle": 65,
+        "filename": "image_30_rot65.jpg"
+      },
+      {
+        "angle": 70,
+        "filename": "image_30_rot70.jpg"
+      },
+      {
+        "angle": 75,
+        "filename": "image_30_rot75.jpg"
+      },
+      {
+        "angle": 80,
+        "filename": "image_30_rot80.jpg"
+      },
+      {
+        "angle": 85,
+        "filename": "image_30_rot85.jpg"
+      },
+      {
+        "angle": 90,
+        "filename": "image_30_rot90.jpg"
+      },
+      {
+        "angle": 95,
+        "filename": "image_30_rot95.jpg"
+      },
+      {
+        "angle": 100,
+        "filename": "image_30_rot100.jpg"
+      },
+      {
+        "angle": 105,
+        "filename": "image_30_rot105.jpg"
+      },
+      {
+        "angle": 110,
+        "filename": "image_30_rot110.jpg"
+      },
+      {
+        "angle": 115,
+        "filename": "image_30_rot115.jpg"
+      },
+      {
+        "angle": 120,
+        "filename": "image_30_rot120.jpg"
+      },
+      {
+        "angle": 125,
+        "filename": "image_30_rot125.jpg"
+      },
+      {
+        "angle": 130,
+        "filename": "image_30_rot130.jpg"
+      },
+      {
+        "angle": 135,
+        "filename": "image_30_rot135.jpg"
+      },
+      {
+        "angle": 140,
+        "filename": "image_30_rot140.jpg"
+      },
+      {
+        "angle": 145,
+        "filename": "image_30_rot145.jpg"
+      },
+      {
+        "angle": 150,
+        "filename": "image_30_rot150.jpg"
+      },
+      {
+        "angle": 155,
+        "filename": "image_30_rot155.jpg"
+      },
+      {
+        "angle": 160,
+        "filename": "image_30_rot160.jpg"
+      },
+      {
+        "angle": 165,
+        "filename": "image_30_rot165.jpg"
+      },
+      {
+        "angle": 170,
+        "filename": "image_30_rot170.jpg"
+      },
+      {
+        "angle": 175,
+        "filename": "image_30_rot175.jpg"
+      },
+      {
+        "angle": 180,
+        "filename": "image_30_rot180.jpg"
+      }
+    ]
+  }
+]
